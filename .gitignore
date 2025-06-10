@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# FastAPI
+instance/
+*.db
+
+# PyCharm
+.idea/
+
+# MongoDB dump files
+dump/
